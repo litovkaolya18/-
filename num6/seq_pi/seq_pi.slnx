@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="seq_pi/seq_pi.vcxproj" Id="e598d44c-4eb7-4fa8-bf8d-81cb2df8577d" />
+</Solution>
