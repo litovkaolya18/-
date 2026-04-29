@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="openmp/openmp.vcxproj" Id="5a6bd44f-3b6d-42f4-b5a3-792757a013f1" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mpi/mpi.vcxproj" Id="7849aee1-4b0d-480c-bf99-5b5d76acd543" />
+</Solution>
